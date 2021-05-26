@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ATomm0305
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ESG data. 
+- 🌱 I’m currently learning how to use the Bloomberg BQNT libraries. 
+- 💞️ I’m looking to collaborate on environmental and social projects. 
+- 📫 Write me on atomm@bloomberg.net or https://www.linkedin.com/in/annamarietomm/
 
 <!---
-ATomm0305/ATomm0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
